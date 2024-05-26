@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://dannyvanpoucke.be/wp-content/uploads/2020/12/surface_Sinc2D_25_Ens.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
 </div>
 
 
