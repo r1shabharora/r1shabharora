@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sattari.org/wp-content/uploads/2024/01/output-onlinegiftools.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlqajNzZG9pbGJ1MWJuZ2Y4cnQwdXloY2d4cXhsdGU2ODRqajFkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
 </div>
 
 ###
