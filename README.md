@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Rish</h1>
-<h3 align="center">Machine Learning Enthusiast | Data Scientist | </h3>
+<h3 align="center">| Machine Learning Enthisiast | </h3>
 <h4 align="center"><i>A professional with a solid knack to solve complex problems and someone who likes challenges to build cutting edge solutions by harnessing data.</i></h4>
 
 
