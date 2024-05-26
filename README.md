@@ -12,6 +12,10 @@
 ---
 <br>
 
+<div align="center">
+  <img src="https://dannyvanpoucke.be/wp-content/uploads/2020/12/surface_Sinc2D_25_Ens.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
+</div>
+
 
 <h3 align="left">👨‍💻 Who Am I</h3>
 
