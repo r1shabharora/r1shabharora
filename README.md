@@ -12,11 +12,6 @@
 ---
 <br>
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
-</div>
-
-
 <h3 align="left">👨‍💻 Who Am I</h3>
 
 ###
