@@ -16,7 +16,7 @@
 
 ###
 
-- 📚 ** I'm a data science and Ai researcher** with a passion for ** making ai accessible for everyone.**.
+- 📚 ** I'm a data science and Ai researcher** with a passion for ** making Artificial Intelligence accessible for everyone.**.
 
 - 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)** for an immersive experience of my projects.
 
