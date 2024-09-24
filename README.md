@@ -16,15 +16,15 @@
 
 ###
 
-- 📚 **A Data Science Master's graduate** with a passion for **Brain Cancer Detection, Graph Neural Networks, and Code Generation using Transformers**.
+- 📚 ** I'm a data science and Ai researcher** with a passion for ** making ai accessible for everyone.**.
 
 - 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)** for an immersive experience of my projects.
 
-- ✍️ Discover my **[Insights](http://pouyasattari.medium.com/)** on technological breakthroughs and the data science landscape on **[Medium](http://pouyasattari.medium.com/)**.
+- ✍️ Discover my **[Insights](http://r1sharora.medium.com/)** on technological breakthroughs and the data science landscape on **[Medium](http://r1sharora.medium.com/)**.
 
-- 💌 Looking to collaborate or have a question? Reach out at **[pouya@sattari.org](mailto:pouya@sattari.org)**.
+- 💌 Looking to collaborate or have a question? Reach out at **[r1shabharora@outlook.com](mailto:r1shabharora@outlook.com)**.
 
-- ☎️ Keen on a brainstorming session or to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
+- ☎️ Keen on a brainstorming session or to chat? **[Schedule a meeting with me](https://topmate.io/risharora)**.
 
 ###
 
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/r1shabharora/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="http://r1sharora.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://huggingface.co/r1sharora" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-%23FF9A00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
-  <a href="https://www.sattari.org" target="_blank"><img src="https://img.shields.io/badge/SATTARI.org-%23323330.svg?&style=for-the-badge&logo=internetexplorer&logoColor=blue" alt="Website"></a>
+  <!-- <a href="https://www.sattari.org" target="_blank"><img src="https://img.shields.io/badge/SATTARI.org-%23323330.svg?&style=for-the-badge&logo=internetexplorer&logoColor=blue" alt="Website"></a> -->
   <a href="mailto:r1shabharora@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=r1shabharora&label=Visitors&color=blue&style=flat-square" alt="visitors">
 </div>
