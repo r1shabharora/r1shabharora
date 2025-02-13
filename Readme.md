@@ -7,9 +7,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<!-- CONNECTION -->
-<hr>      
+<!-- CONNECTION -->  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/r1shabharora/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="90" width="190" /></a>
