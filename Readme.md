@@ -11,6 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/r1shabharora/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="90" width="190" /></a>
+  <a href="mailto:r1shabharora@outlook.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="50" width="60" /></a>
 </p>
 
 <h2>  Tech Stack </h2>
