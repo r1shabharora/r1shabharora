@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,opencv"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
