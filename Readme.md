@@ -1,9 +1,9 @@
 <hr>
 <h1 align="center"> < Rish Arora /> </h1>
-<h3 align="center">Data Scientist | AI Researcher | Machine Learning Enthusiast | Data Analytics Expert</h3>
+<h3 align="center">  Bringing data to life and beyond </h3>
 </p>
 
-<div size='20px' align="center"> Bringing data to life and beyond 
+<div size='20px' align="center"> | Data Scientist | Machine Learning Enthusiast | Analytics Advisor 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -15,6 +15,31 @@
 </p>
 
 <h2>  Tech Stack </h2>
+
+#### A little more about me
+```Python
+class Tech_Stack:
+    def __init__(self):
+        self.Programming = ["Python", "R", "SQL", "MATLAB", "VBA","JavaScript"]
+        self.libraries = {
+            "Data": ["NumPy", "Pandas", "JS", "Bootstrap"],
+            "Machine Learning": ["PyTorch", "Scikit-learn","Seaborn","XGBoost"],
+            "NLP": ["NLTK", "Hugging Face Transformers","spaCy"],
+            "Visualization": ["Matplotlib", "Plotly"]
+            "Web Scraping": ["Selenium","BeautifulSoup","Requests"]
+        }
+        self.databases = ["MySQL", "MongoDB", "PostgreSQL", "Pinecone","Neo4j"]
+
+    def get_info(self):
+        return {
+            "pronouns": self.pronouns,
+            "code": self.code,
+            "ask_me_about": self.ask_me_about,
+            "technologies": self.technologies
+        }
+```
+
+
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming:</td>
