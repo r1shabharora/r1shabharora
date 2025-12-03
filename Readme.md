@@ -3,7 +3,7 @@
 <h3 align="center">  Bringing data to life and beyond </h3>
 </p>
 
-<div size='20px' align="center"> | Data Scientist | Machine Learning Enthusiast | Analytics Advisor 
+<div size='20px' align="center"> | AI/ML Engineer | Machine Learning Practitioner | Research Scientist
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
