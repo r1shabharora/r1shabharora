@@ -1,6 +1,5 @@
 <hr>
-<h1 align="center"> < Rish Arora /> </h1>
-<h3 align="center">  Bringing data to life and beyond </h3>
+<h1 align="center"> < Bringing data to life and beyond  /> </h1>
 </p>
 
 <div size='20px' align="center"> | AI/ML Engineer | Machine Learning Practitioner | Research Scientist
